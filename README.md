@@ -191,12 +191,7 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 **Quora**
 
 * [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
-* https://www.quora.com/Programming-Interviews/What-types-of-technical-questions-are-asked-in-developer-interviews
-* https://www.quora.com/Programming-Interviews/Which-is-the-best-book-to-prepare-for-coding-programming-interviews
-* https://www.quora.com/Programming-Interviews/Are-there-any-blogs-on-programming-interview-questions
-* https://www.quora.com/Programming-Interviews/What-are-the-best-websites-books-resources-for-Programming-Interview-Questions
-* https://www.quora.com/Programming-Interviews/How-can-I-become-good-programmer-in-short-time
-
+* 
 
 ## Videos
 
